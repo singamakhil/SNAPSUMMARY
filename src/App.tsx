@@ -50,7 +50,6 @@ const App = () => {
   </ul>
   </>
   )
-
 }
 
 export default App;
